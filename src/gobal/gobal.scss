@@ -1,0 +1,26 @@
+$main-Color: #1baeae;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+
+html,
+body,
+#app {
+  width: 100%;
+}
+
+html,
+body {
+  /* overflow-y: scroll; */
+  overflow-x: hidden;
+}
+
+img {
+  width: 100%;
+}
+
